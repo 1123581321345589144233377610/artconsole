@@ -6,7 +6,7 @@ def readme():
 
 setup(
     name = 'artconsole',
-    version = '1.0.6',
+    version = '1.0.7',
     author = 'Dima M. Shirokov',
     author_email = 'D.Shirokov05@yandex.ru',
     description = 'This is a simple library for outputting to the console or receiving simple ASCII art as a string.',

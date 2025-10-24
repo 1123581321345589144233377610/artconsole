@@ -109,11 +109,14 @@ d888888888888888,                                ,ZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 ```pycon
 >>> artconsole.DRAWINGS.keys()
 
-dict_keys(['captain_america', 'spiderman', 'mona_lisa', 'hexagonal', 'scorpion', 'snake', 'brachiosaur', 'pterodactyl', 'turtle', 'wolf'])
+dict_keys(['captain_america', 'spiderman', 'mona_lisa', 'hexagonal', 'scorpion', 'snake', 
+'brachiosaur', 'pterodactyl', 'turtle', 'wolf', 'canada', 'eiffel_tower', 'mount_rushmore', 
+'statue_of_liberty', 'taj_mahal', 'pyramids', 'notre_dame', 'saint_basils_cathedral', 
+'stonehenge', 'white_house'])
 
 >>> len(artconsole.DRAWINGS.keys())
 
-10
+20
 ```
 
 # Contributors
@@ -125,7 +128,7 @@ Guide: [CONTRIBUTING.md](https://github.com/1123581321345589144233377610/artcons
 
 # Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=1123581321345589144233377610/artconsole&type=Date)](https://star-history.com/#1123581321345589144233377610/artconsole&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=1123581321345589144233377610/artconsole&type=date&legend=top-left)](https://www.star-history.com/#1123581321345589144233377610/artconsole&type=date&legend=top-left)
 
 # Gratitude
 
